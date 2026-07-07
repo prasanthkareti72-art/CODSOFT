@@ -5,7 +5,6 @@ print("=" * 50)
 
 while True:
     user = input("\nYou: ").lower()
-
     # Greetings
     if user in ["hi", "hello", "hey", "hii", "heyy"]:
         print("Bot: Hello! Nice to meet you.")
